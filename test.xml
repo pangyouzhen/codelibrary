@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root name = "task">
+    <task name="level1">
+        <logic name="level2">
+        </logic>
+    </task>
+    <task name="level3">
+        <logic name="level4">
+        </logic>
+    </task>
+</root>
